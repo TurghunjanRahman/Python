@@ -62,6 +62,5 @@ if __name__ == '__main__':
     result = model.get_docments_score(test_text_participle)
     print(result)
 
-
     # Return value: [0.4853969226271291, 0.01394647195713811, 0.0, 0.022314355131420976, 0.03847302608865685]
 
